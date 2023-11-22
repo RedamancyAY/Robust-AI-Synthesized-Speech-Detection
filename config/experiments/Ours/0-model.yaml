@@ -1,0 +1,12 @@
+DATASET:
+
+  train_settings:
+    audio_feature: None
+    max_wave_length: 48000
+    batch_size: 32
+    
+  test_settings:
+    audio_feature: None
+    max_wave_length: 48000
+    batch_size: 32
+    

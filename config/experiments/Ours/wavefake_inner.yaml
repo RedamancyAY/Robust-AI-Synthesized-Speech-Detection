@@ -1,0 +1,6 @@
+DATASET:
+  name: 'WaveFake'
+  task: 'inner_eval'
+  
+MODEL:
+  method_classes: 7

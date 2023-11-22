@@ -1,0 +1,6 @@
+DATASET:
+  name: 'LibriSeVoc'
+  task: 'inner_eval'
+  
+MODEL:
+  method_classes: 7

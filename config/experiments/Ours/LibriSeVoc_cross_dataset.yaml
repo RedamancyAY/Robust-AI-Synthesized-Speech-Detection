@@ -1,0 +1,6 @@
+DATASET:
+  name: 'LibriSeVoc'
+  task: 'cross_dataset'
+  
+MODEL:
+  method_classes: 7

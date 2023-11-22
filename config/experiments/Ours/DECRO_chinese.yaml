@@ -1,0 +1,6 @@
+DATASET:
+  name: 'DECRO'
+  task: 'ch'
+  
+MODEL:
+  method_classes: 17

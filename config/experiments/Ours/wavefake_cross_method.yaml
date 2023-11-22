@@ -1,0 +1,6 @@
+DATASET:
+  name: 'WaveFake'
+  task: 'cross_method'
+  
+MODEL:
+  method_classes: 7
